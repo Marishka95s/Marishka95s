@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 I’m Marishka95s
+- 👩‍💻 I’m Marishka95s
 - 👀 I’m interested in HTML/CSS/JavaScript/React/Node.js
 - 🔭 I’m currently working on expanding my technological stack
 - 🌱 I’m currently learning on my own, but I graduated from GoIT and I recommend it to everyone!
